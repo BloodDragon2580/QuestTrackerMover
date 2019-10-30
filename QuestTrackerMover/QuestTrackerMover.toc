@@ -1,0 +1,7 @@
+## Interface: 80205
+## Title: |cffd6266cQuestTrackerMover|r
+## Version: 1.0
+## Author: BloodDragon2580
+## Notes: With this Addon you can move the Quest Tracker Frame.
+
+core.lua
