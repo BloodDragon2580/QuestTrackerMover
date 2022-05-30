@@ -1,6 +1,6 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: |cffd6266cQuestTrackerMover|r
-## Version: 3.8
+## Version: 3.9
 ## Author: BloodDragon2580
 ## Notes: With this Addon you can move the Quest Tracker Frame.
 
