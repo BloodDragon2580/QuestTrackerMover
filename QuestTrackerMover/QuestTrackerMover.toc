@@ -1,8 +1,9 @@
 ## Interface: 110100
 ## Title: |cffd6266cQuestTrackerMover|r
-## Version: 9.5
+## Version: 9.6
 ## Author: BloodDragon2580
 ## Notes: With this Addon you can move the Quest Tracker Frame.
+## SavedVariables: QuestTrackerMoverDB
 ## IconTexture: Interface\AddOns\QuestTrackerMover\Media\Texture\logo
 
-core.lua
+QuestTrackerMover.lua
