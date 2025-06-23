@@ -1,6 +1,6 @@
 ## Interface: 110107
 ## Title: |cffd6266cQuestTrackerMover|r
-## Version: 11.1
+## Version: 11.2
 ## Author: BloodDragon2580
 ## Notes: With this Addon you can move the Quest Tracker Frame.
 ## SavedVariables: QuestTrackerMoverDB
